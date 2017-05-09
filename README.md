@@ -1,27 +1,15 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [The Big Picture](http://startbootstrap.com/template-overviews/the-big-picture/)
+# Projeto Integrador - Curso Tech
 
-[The Big Picture](http://startbootstrap.com/template-overviews/the-big-picture/) is a responsive HTML template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The template features a full page background image and a fixed bottom navigation bar.
+Projeto Intergrador do Curso de Programador WEB na instituição SENAC RIO baseado em HTML5, CSS3, jQuery, PHP e MySQL. O projeto completo pode ser acessado através do link a seguir: [clique aqui!](http://www.camilofernando.pe.hu/)
 
-## Getting Started
+## O projeto
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/the-big-picture/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-the-big-picture.git`
-* Fork the repo
+O projeto é composto por três módulos: o site institucional da empresa fictícia, área de administração e uma loja virtual.
 
-## Bugs and Issues
+## Autor
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-the-big-picture/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/the-big-picture/).
+O projeto foi desenvolvido pelo aluno Fernando Camilo.
+Email: ofernandocamilo@gmail.com
 
-## Creator
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/gh-pages/LICENSE) license.
+* https://facebook.com/ofernandocamilo
+* https://github.com/ofernandocamilo
