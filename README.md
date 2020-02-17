@@ -12,4 +12,3 @@ O projeto foi desenvolvido pelo aluno Fernando Camilo.
 Email: contato@fernandocamilo.com
 
 * https://www.fernandocamilo.com
-* https://github.com/ofernandocamilo
