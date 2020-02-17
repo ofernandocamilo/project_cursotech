@@ -9,7 +9,7 @@ O projeto é composto por três módulos: o site institucional da empresa fictí
 ## Autor
 
 O projeto foi desenvolvido pelo aluno Fernando Camilo.
-Email: dev@fernandocamilo.com
+Email: contato@fernandocamilo.com
 
 * https://www.fernandocamilo.com
 * https://github.com/ofernandocamilo
